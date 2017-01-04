@@ -1,0 +1,17 @@
+{
+  "name": "mec_devops_plat",
+  "version": "1.0.0",
+  "description": "The platform that creates application and microservices in edge compliant way to orchestrates in cloud and cloudlet as required",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.6"
+  }
+}
